@@ -12,7 +12,7 @@ WITH DOCKER!!!!!!
 6. open new terminal into server path and write: 
 6.1 yarn
 6.2 yarn sequelize db:migrate
-7. importe insominia file for test api
+7. import insominia file for test api
 
 DOCKER LESS!!!!!
 
@@ -23,4 +23,4 @@ DOCKER LESS!!!!!
 4.1 yarn
 4.2 yarn sequelize db:migrate
 4.3 yarn dev
-5. importe insominia file for test api
+5. import insominia file for test api
